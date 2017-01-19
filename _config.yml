@@ -3,11 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: less is more
+subtitle: 这里只有代码相关
+description: 测试博客
+author: su
+email: 673399718@qq.com
+language: zh-CN
 timezone:
 
 # URL
@@ -67,5 +68,11 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+#email: 673399718@qq.com # 要用当前github账号的申请邮箱
 deploy:
-  type:
+    type: git
+    repository: https://xinghehaohan.github.io/MianShan.github.io/
+    branch: master
+
+
+
