@@ -67,8 +67,8 @@ pagination_dir: page
 theme: jekyll-theme-slate
 
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
-#email: 673399718@qq.com # 要用当前github账号的申请邮箱
+# Docs: https://xinghehaohan.github.io/MianShan.github.io/.html
+#email: 673399718@qq.com
 deploy:
     type: git
     repository: https://xinghehaohan.github.io/MianShan.github.io/
